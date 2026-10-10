@@ -1,0 +1,10 @@
+{
+  "repository": "NDDev-OpenNetwork/rldyour-cleaner",
+  "release": "v0.3.0",
+  "linux_asset": "rldyour-cleaner-v0.3.0-linux-x86_64.tar.gz",
+  "sha256": "dda4499e84600f70abbc2aaa1e704fc3ba48037e151a5cfd2724e9c5c6e57e67",
+  "executables": {
+    "NDS_TEST_CLEANER": "rldyour-cleaner"
+  },
+  "size": 498819
+}
